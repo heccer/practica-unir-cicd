@@ -9,17 +9,17 @@
  */
 
  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap');
-html {
+ html {
   /* 1 */
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace, Arial, sans-serif;
   font-size: 16px;
   font-weight: normal;
   line-height: 1.5;
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 3 */
-  background: #171717;
-  color: #666;
+  background:#3493BD;
+  color: #36287F;
 }
 /*
  * Remove the margin in all browsers.
@@ -5058,7 +5058,7 @@ ul.uk-nav-sub {
 /* Container
  ========================================================================== */
 .uk-navbar-container:not(.uk-navbar-transparent) {
-  background: #171717;
+  background: #334E85;
 }
 /* Groups
  ========================================================================== */
