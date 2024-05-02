@@ -1,4 +1,8 @@
 # simple-portfolio
-a simple portfolio template.
-# Preview
-<img src="https://cdn.discordapp.com/attachments/854378301303947317/975341933964705802/Web_capture_15-5-2022_171911_127.0.0.1.jpeg">
+Proyecto web que muestra un portafolio profesional sobre un desarrollador.
+
+# Pautas para trabajar sobre el repositorio
+El equipo de trabajo puede modificar cualquier componente de este proyecto. Para lograrlo, necesitan hacer un FORK a sus cuentas, luego crear una RAMA y trabajar sobre ella, finalmente deben enviar un PULL REQUEST para solicitar oficializar los cambios.
+
+# Atentamente
+HECCER (REPO ADMIN)
