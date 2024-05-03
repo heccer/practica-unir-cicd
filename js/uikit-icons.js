@@ -1,4 +1,5 @@
 /*! UIkit 3.14.0 | https://www.getuikit.com | (c) 2014 - 2022 YOOtheme | MIT License */
+/*! Modifacion nueva funcion mensaje Edison Gomez */
 
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
@@ -6,6 +7,11 @@
     (global = typeof globalThis !== 'undefined' ? globalThis : global || self, global.UIkitIcons = factory());
 })(this, (function () { 'use strict';
 
+    function plugin(UIkit) {
+      if (plugin.installed) {
+        return;
+      }
+	  
     function plugin(UIkit) {
       if (plugin.installed) {
         return;
